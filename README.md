@@ -12,7 +12,6 @@ To build this project, you'll need:
  
 Total: 105€
 
-##
 ## Raspberry Pi installation
 ### Install Raspbian
 https://www.raspberrypi.org/documentation/installation/installing-images/
@@ -90,14 +89,14 @@ Launch VNC viewer and add a new connection to `192.168.1.201:1`
 > Important note: be sure te be on same Wi-Fi network on both sides.
 
 
-# Utiliser la camera
-## Installer motion
-## Configurer motion
-## Envoyer un sms en cas de detection de mouvements
+## Utiliser la camera
+### Installer motion
+### Configurer motion
+### Envoyer un sms en cas de detection de mouvements
 
-# Mettre en place la visualisation du live depuis internet
-## Installer un apache
-## Creer une page html qui diffuse le live
-## Sécuriser l'acces avec un htaccess et htpassword
-## Configurer le NAT
-## Tester l'acces depuis internet
+## Mettre en place la visualisation du live depuis internet
+### Installer un apache
+### Creer une page html qui diffuse le live
+### Sécuriser l'acces avec un htaccess et htpassword
+### Configurer le NAT
+### Tester l'acces depuis internet
