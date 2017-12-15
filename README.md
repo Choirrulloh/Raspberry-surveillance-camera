@@ -1,4 +1,4 @@
-# Surveillance-camera-project
+# Raspberry-surveillance-camera
 
 ## Prerequisites
 To build this project, you'll need:
