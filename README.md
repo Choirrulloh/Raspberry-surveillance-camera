@@ -89,8 +89,9 @@ Launch VNC viewer and add a new connection to `192.168.1.201:1`
 > Important note: be sure te be on same Wi-Fi network on both sides.
 
 
-## Utiliser la camera
+## Configuration de la camera
 ### Installer motion
+`sudo apt-get install motion`
 ### Configurer motion
 ### Envoyer un sms en cas de detection de mouvements
 
