@@ -72,9 +72,13 @@ Go to your modem admin panel control and add a NAT to your Raspberry local IP :
 
 ### Create a humain friendly domain with www.noip.com to access to your Raspberry
 The goal of this section is to use a humain friendly domain to access to your Raspberry.
+
 Create a free account on https://www.noip.com/
+
 Download the client https://www.noip.com/download?page=win and install it on your windows computer using the same Raspberry network wifi.
+
 Create a `host`.
+
 This host will give you a humain friendly domain (e.i. `www.mycamera.ddns.net`) which will redirect to your modem public IP.
 
 > Check your Rasbperry public access with a humain friendly domain by typing `www.mycamera.ddns.net` in a browser.
