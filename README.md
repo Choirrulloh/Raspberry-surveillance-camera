@@ -14,9 +14,9 @@ Total: 105€
 
 ## Raspberry Pi installation
 ### Install MotionEyeOS
-Download the motionEyeOs : https://github.com/ccrisan/motioneyeos/releases
+Download the MotionEyeOS : https://github.com/ccrisan/motioneyeos/releases
 
-Install motionEyeOs : https://github.com/ccrisan/motioneyeos/wiki/Installation
+Install MotionEyeOS : https://github.com/ccrisan/motioneyeos/wiki/Installation
 
 
 ### Configure MotionEyeOS
