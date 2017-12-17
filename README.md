@@ -45,7 +45,7 @@ Then in `Network` define your static wifi IP.
 
 `Apply` these modifications.
 
-Unlink the ethernet link. Now your Raspbeery will use your wifi network.
+Unlink the ethernet link. Now your Raspberry will use your wifi network.
 
 Check to access to your Raspberry by typing the wifi local IP in browser on an other device connected to the same wifi network.
 
