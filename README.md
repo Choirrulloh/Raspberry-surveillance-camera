@@ -83,8 +83,8 @@ Download the client https://www.noip.com/download?page=win and install it on you
 
 [![client](https://i.imgur.com/6qSw5hg.jpg)](https://i.imgur.com/6qSw5hg.jpg)
 
-This host will give you a humain friendly domain (e.i. `www.mycamera.ddns.net`) which will redirect to your modem public IP.
+This host will give you a human friendly domain (e.i. `www.mycamera.ddns.net`) which will redirect to your modem public IP.
 
-> Check your Rasbperry public access with a humain friendly domain by typing `www.mycamera.ddns.net` in a browser.
+> Check your Rasbperry public access with a human friendly domain by typing `www.mycamera.ddns.net` in a browser.
 
 ### Use your own domain to access to your Raspberry
