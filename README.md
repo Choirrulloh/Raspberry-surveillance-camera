@@ -37,7 +37,7 @@ Login with `admin` and no password.
 You can see the live video of your camera.
 [![You can seen the live video of your camera](https://i.imgur.com/wUQCzEi.jpg)](https://i.imgur.com/wUQCzEi.jpg)
 
-Go to `Settings` on top left, then `General settings` and define your admin password.
+Go to `Settings` on top left, then `General settings` and define your `Admin Password` and your `Surveillance Password`. If you don't define your `Surveillance Password`, your live video will be public accessible on internet.
 [![Login with admin and no password](https://i.imgur.com/AzRLWMM.jpg)](https://i.imgur.com/AzRLWMM.jpg)
 
 Then in `Network` define your static wifi IP.
@@ -57,5 +57,11 @@ This is my configuration :
 [![Motion](https://i.imgur.com/CrFGWuo.jpg)](https://i.imgur.com/CrFGWuo.jpg)
 
 ## Internet access
-### Configure your modem NAT
+I use a Huawei E5180s-22. Your config can be different but the NAT configuration should be similar.
+[![Huawei E5180s-22](http://www.journaldugeek.com/wp-content/blogs.dir/1/files/2017/01/bouygues-4G-box-04.jpg)](http://www.journaldugeek.com/wp-content/blogs.dir/1/files/2017/01/bouygues-4G-box-04.jpg)
+
+### Configure the port forwarding (NAT) on your modem
+Go to your modem admin panel control and add a NAT to your Raspberry local IP :
+[![NAT](https://i.imgur.com/dAyRUhN.jpg)](https://i.imgur.com/dAyRUhN.jpg)
+
 ### Configure your domain name
