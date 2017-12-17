@@ -31,16 +31,16 @@ Get your Raspberry local IP by looking along informations displayed on the Raspb
 ### Configure MotionEyeOS
 With a computer connected on the same network with your Raspberry, open a browser and type your raspberry local IP (for me `http://192.168.1.111`).
 Login with `admin` and no password.
-[![Login with admin and no password](https://imgur.com/sx35FB1)](https://imgur.com/sx35FB1)
+[![Login with admin and no password](https://i.imgur.com/AzRLWMM.jpg)](https://i.imgur.com/AzRLWMM.jpg)
 
 You can seen the live video of your camera.
-[![You can seen the live video of your camera](https://imgur.com/wUQCzEi)](https://imgur.com/wUQCzEi)
+[![You can seen the live video of your camera](https://i.imgur.com/wUQCzEi.jpg)](https://i.imgur.com/wUQCzEi.jpg)
 
 Go to `Settings` on top left, then `General settings` and define your admin password.
 [![admin password](https://imgur.com/AzRLWMM)](https://imgur.com/AzRLWMM)
 
 Then in `Network` define your static wifi IP.
-[![Set your static wifi connection](https://imgur.com/kcWYRFa)](https://imgur.com/kcWYRFa)
+[![Set your static wifi connection](https://i.imgur.com/kcWYRFa.jpg)](https://i.imgur.com/kcWYRFa.jpg)
 
 `Apply` these modifications.
 
@@ -49,9 +49,8 @@ Unlink the ethernet link. Now your Raspbeery will use your wifi network.
 Check to access to your Raspberry by typing the wifi local IP in browser on an other device connected to the same wifi network.
 
 And then explore all options and defined it as you wish. This is my main configuration :
-[![n](https://imgur.com/kcWYRFa)](https://imgur.com/kcWYRFa)
-[![Video](https://imgur.com/jfi8q6y)](https://imgur.com/jfi8q6y)
-[![Motion](https://imgur.com/CrFGWuo)](https://imgur.com/CrFGWuo)
+[![Video](https://i.imgur.com/jfi8q6y.jpg)](https://i.imgur.com/jfi8q6y.jpg)
+[![Motion](https://i.imgur.com/CrFGWuo.jpg)](https://i.imgur.com/CrFGWuo.jpg)
 
 ## Internet access
 ### Configure your modem NAT
