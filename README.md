@@ -34,7 +34,7 @@ With a computer connected on the same network with your Raspberry, open a browse
 Login with `admin` and no password.
 [![admin password](https://i.imgur.com/sx35FB1.jpg)](https://i.imgur.com/sx35FB1.jpg)
 
-You can seen the live video of your camera.
+You can see the live video of your camera.
 [![You can seen the live video of your camera](https://i.imgur.com/wUQCzEi.jpg)](https://i.imgur.com/wUQCzEi.jpg)
 
 Go to `Settings` on top left, then `General settings` and define your admin password.
