@@ -31,13 +31,13 @@ Get your Raspberry local IP by looking along informations displayed on the Raspb
 ### Configure MotionEyeOS
 With a computer connected on the same network with your Raspberry, open a browser and type your raspberry local IP (for me `http://192.168.1.111`).
 Login with `admin` and no password.
-[![Login with admin and no password](https://i.imgur.com/AzRLWMM.jpg)](https://i.imgur.com/AzRLWMM.jpg)
+[![admin password](https://i.imgur.com/sx35FB1.jpg)](https://i.imgur.com/sx35FB1.jpg)
 
 You can seen the live video of your camera.
 [![You can seen the live video of your camera](https://i.imgur.com/wUQCzEi.jpg)](https://i.imgur.com/wUQCzEi.jpg)
 
 Go to `Settings` on top left, then `General settings` and define your admin password.
-[![admin password](https://imgur.com/AzRLWMM)](https://imgur.com/AzRLWMM)
+[![Login with admin and no password](https://i.imgur.com/AzRLWMM.jpg)](https://i.imgur.com/AzRLWMM.jpg)
 
 Then in `Network` define your static wifi IP.
 [![Set your static wifi connection](https://i.imgur.com/kcWYRFa.jpg)](https://i.imgur.com/kcWYRFa.jpg)
