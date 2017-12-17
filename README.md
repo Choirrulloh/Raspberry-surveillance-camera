@@ -88,3 +88,11 @@ This host will give you a human friendly domain (e.i. `www.mycamera.ddns.net`) w
 > Check your Rasbperry public access with a human friendly domain by typing `www.mycamera.ddns.net` in a browser.
 
 ### Use your own domain to access to your Raspberry
+Create on your ftp server a `.htaccess` file with :
+```
+redirect 301 /camera http://maisonlimoges.ddns.net
+```
+
+Now you can access to your camera every where with your own domain :).
+
+Enjoy
