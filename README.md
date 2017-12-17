@@ -52,6 +52,7 @@ Check to access to your Raspberry by typing the wifi local IP in browser on an o
 And then explore all options and defined it as you wish.
 
 This is my configuration :
+
 [![Video](https://i.imgur.com/jfi8q6y.jpg)](https://i.imgur.com/jfi8q6y.jpg)
 [![Motion](https://i.imgur.com/CrFGWuo.jpg)](https://i.imgur.com/CrFGWuo.jpg)
 
