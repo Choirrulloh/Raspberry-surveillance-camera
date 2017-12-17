@@ -30,6 +30,7 @@ Get your Raspberry local IP by looking along informations displayed on the Raspb
 
 ### Configure MotionEyeOS
 With a computer connected on the same network with your Raspberry, open a browser and type your raspberry local IP (for me `http://192.168.1.111`).
+
 Login with `admin` and no password.
 [![admin password](https://i.imgur.com/sx35FB1.jpg)](https://i.imgur.com/sx35FB1.jpg)
 
