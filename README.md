@@ -57,7 +57,7 @@ This is my configuration :
 [![Motion](https://i.imgur.com/CrFGWuo.jpg)](https://i.imgur.com/CrFGWuo.jpg)
 
 ## Internet access
-I use a Huawei E5180s-22. Your config can be different but the NAT configuration should be similar.
+I use a Huawei E5180s-22. Your modem can be different but the NAT configuration should be similar.
 [![Huawei E5180s-22](http://www.journaldugeek.com/wp-content/blogs.dir/1/files/2017/01/bouygues-4G-box-04.jpg)](http://www.journaldugeek.com/wp-content/blogs.dir/1/files/2017/01/bouygues-4G-box-04.jpg)
 
 ### Configure the port forwarding (NAT) on your modem
