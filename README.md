@@ -64,4 +64,4 @@ I use a Huawei E5180s-22. Your modem can be different but the NAT configuration 
 Go to your modem admin panel control and add a NAT to your Raspberry local IP :
 [![NAT](https://i.imgur.com/dAyRUhN.jpg)](https://i.imgur.com/dAyRUhN.jpg)
 
-### Configure your domain name
+### Use your domain name to access to your Raspberry
