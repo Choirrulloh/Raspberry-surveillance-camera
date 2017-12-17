@@ -49,7 +49,9 @@ Unlink the ethernet link. Now your Raspberry will use your wifi network.
 
 Check to access to your Raspberry by typing the wifi local IP in browser on an other device connected to the same wifi network.
 
-And then explore all options and defined it as you wish. This is my main configuration :
+And then explore all options and defined it as you wish.
+
+This is my configuration :
 [![Video](https://i.imgur.com/jfi8q6y.jpg)](https://i.imgur.com/jfi8q6y.jpg)
 [![Motion](https://i.imgur.com/CrFGWuo.jpg)](https://i.imgur.com/CrFGWuo.jpg)
 
