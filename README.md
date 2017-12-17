@@ -70,8 +70,8 @@ Go to your modem admin panel control and add a NAT to your Raspberry local IP :
 > Check your Rasbperry public access by typing your modem public IP in a browser.
 
 
-### Create a humain friendly domain with www.noip.com to access to your Raspberry
-The goal of this section is to use a humain friendly domain to access to your Raspberry.
+### Create a human friendly domain with www.noip.com to access to your Raspberry
+The goal of this section is to use a human friendly domain to access to your Raspberry.
 
 Create a free account on https://www.noip.com/
 Create a `host`.
