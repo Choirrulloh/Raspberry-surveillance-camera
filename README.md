@@ -60,10 +60,13 @@ This is my configuration :
 
 
 ## Configure the access to your Raspberry from Internet
+
 My modem is a Huawei E5180s-22 but your modem can be different, the forwarding (NAT) configuration will be similar.
+
 [![Huawei E5180s-22](http://www.journaldugeek.com/wp-content/blogs.dir/1/files/2017/01/bouygues-4G-box-04.jpg)](http://www.journaldugeek.com/wp-content/blogs.dir/1/files/2017/01/bouygues-4G-box-04.jpg)
 
 Go to your modem admin panel control and add a forwarding (NAT) to your Raspberry local IP :
+
 [![NAT](https://i.imgur.com/dAyRUhN.jpg)](https://i.imgur.com/dAyRUhN.jpg)
 
 > Check your Rasbperry public access : type your modem public IP in a browser, you should access successfully to your Raspberry.
@@ -82,17 +85,19 @@ This host is a human friendly address (e.i. `www.maisonlimoges.ddns.net`) which 
 ### Install the noip client on a device connected on same wifi network
 
 #### Windows
+
 Download the client https://www.noip.com/download?page=win and install it on your windows computer using the same Raspberry network wifi.
 
 [![client](https://i.imgur.com/6qSw5hg.jpg)](https://i.imgur.com/6qSw5hg.jpg)
 
 #### Raspbian
-Follow this good tutorial : http://fr.sizious.com/2017/04/30/comment-installer-no-ip-dynamic-update-client-duc-sous-raspbian/
 
+Follow this good tutorial : http://fr.sizious.com/2017/04/30/comment-installer-no-ip-dynamic-update-client-duc-sous-raspbian/
 
 > Check your Rasbperry public access with a human friendly domain by typing `www.mycamera.ddns.net` in a browser.
 
 ## Use your own domain to access to your Raspberry
+
 Create on your ftp server a `.htaccess` file with :
 ```
 redirect 301 /camera http://maisonlimoges.ddns.net
