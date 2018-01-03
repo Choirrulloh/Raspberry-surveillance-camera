@@ -98,7 +98,7 @@ Download the client https://www.noip.com/download?page=win and install it on you
 
 Follow this good tutorial : http://fr.sizious.com/2017/04/30/comment-installer-no-ip-dynamic-update-client-duc-sous-raspbian/
 
-> Check your Rasbperry public access with a human friendly domain by typing `www.mycamera.ddns.net` in a browser.
+> Check your Rasbperry public access with a human friendly domain by typing it in a browser.
 
 ## Use your own domain to access to your Raspberry
 
