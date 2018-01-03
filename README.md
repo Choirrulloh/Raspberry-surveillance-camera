@@ -20,15 +20,14 @@ Connect you camera on your raspberry
 
 Connect your Raspberry to internet with an ethernet link. It is required for the MotionEyeOS install but you will can removed it just after installation and use wifi connect.
 
-## Software
-### Install MotionEyeOS
+## Install MotionEyeOS
 Download MotionEyeOS : https://github.com/ccrisan/motioneyeos/releases
 
 Install MotionEyeOS : https://github.com/ccrisan/motioneyeos/wiki/Installation
 
 Get your Raspberry local IP by looking along informations displayed on the Raspberry screen.
 
-### Configure MotionEyeOS
+## Configure MotionEyeOS
 With a computer connected on the same network with your Raspberry, open a browser and type your raspberry local IP (for me `http://192.168.1.111`).
 
 Login with `admin` and no password.
@@ -59,20 +58,20 @@ This is my configuration :
 
 > Check your Rasbperry local access by typing your Raspberry local IP (`192.168.1.202`) in a browser on a device connected on same wifi network.
 
-## Internet access
-I use a Huawei E5180s-22. Your modem can be different but the NAT configuration should be similar.
+
+## Configure the access to your Raspberry from Internet
+My modem is a Huawei E5180s-22 but your modem can be different, the forwarding (NAT) configuration will be similar.
 [![Huawei E5180s-22](http://www.journaldugeek.com/wp-content/blogs.dir/1/files/2017/01/bouygues-4G-box-04.jpg)](http://www.journaldugeek.com/wp-content/blogs.dir/1/files/2017/01/bouygues-4G-box-04.jpg)
 
-### Configure the port forwarding (NAT) on your modem
-Go to your modem admin panel control and add a NAT to your Raspberry local IP :
+Go to your modem admin panel control and add a forwarding (NAT) to your Raspberry local IP :
 [![NAT](https://i.imgur.com/dAyRUhN.jpg)](https://i.imgur.com/dAyRUhN.jpg)
 
-> Check your Rasbperry public access by typing your modem public IP in a browser.
+> Check your Rasbperry public access : type your modem public IP in a browser, you should access successfully to your Raspberry.
 
 
-### Create a human friendly domain with www.noip.com to access to your Raspberry
-The goal of this section is to use a human friendly domain to access to your Raspberry.
+## Configure a human friendly domain with www.noip.com to access to your Raspberry from Internet
 
+### Create an account on www.noip.com
 Create a free account on https://www.noip.com/
 Create a `host`.
 
@@ -80,20 +79,20 @@ Create a `host`.
 
 This host is a human friendly address (e.i. `www.maisonlimoges.ddns.net`) which will redirect to your modem public IP.
 
-## Install the noip client on a device connected on same wifi network
+### Install the noip client on a device connected on same wifi network
 
-# Windows
+#### Windows
 Download the client https://www.noip.com/download?page=win and install it on your windows computer using the same Raspberry network wifi.
 
 [![client](https://i.imgur.com/6qSw5hg.jpg)](https://i.imgur.com/6qSw5hg.jpg)
 
-# Raspbian
+#### Raspbian
 Follow this good tutorial : http://fr.sizious.com/2017/04/30/comment-installer-no-ip-dynamic-update-client-duc-sous-raspbian/
 
 
 > Check your Rasbperry public access with a human friendly domain by typing `www.mycamera.ddns.net` in a browser.
 
-### Use your own domain to access to your Raspberry
+## Use your own domain to access to your Raspberry
 Create on your ftp server a `.htaccess` file with :
 ```
 redirect 301 /camera http://maisonlimoges.ddns.net
