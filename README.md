@@ -75,7 +75,11 @@ Go to your modem admin panel control and add a forwarding (NAT) to your Raspberr
 ## Configure a human friendly domain with www.noip.com to access to your Raspberry from Internet
 
 ### Create an account on www.noip.com
-Create a free account on https://www.noip.com/
+
+Go to on https://www.noip.com/
+
+Create a free account
+
 Create a `host`.
 
 [![noip](https://i.imgur.com/maHyJ2l.jpg)](https://i.imgur.com/maHyJ2l.jpg)
