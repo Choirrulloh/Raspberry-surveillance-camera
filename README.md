@@ -57,7 +57,7 @@ This is my configuration :
 [![Motion](https://i.imgur.com/CrFGWuo.jpg)](https://i.imgur.com/CrFGWuo.jpg)
 
 
-> Check your Rasbperry local access by typing your Raspberry local IP (`192.168.1.202`) in a browser on a device connect on same wifi network.
+> Check your Rasbperry local access by typing your Raspberry local IP (`192.168.1.202`) in a browser on a device connected on same wifi network.
 
 ## Internet access
 I use a Huawei E5180s-22. Your modem can be different but the NAT configuration should be similar.
@@ -78,12 +78,18 @@ Create a `host`.
 
 [![noip](https://i.imgur.com/maHyJ2l.jpg)](https://i.imgur.com/maHyJ2l.jpg)
 
+This host is a human friendly address (e.i. `www.maisonlimoges.ddns.net`) which will redirect to your modem public IP.
 
+## Install the noip client on a device connected on same wifi network
+
+# Windows
 Download the client https://www.noip.com/download?page=win and install it on your windows computer using the same Raspberry network wifi.
 
 [![client](https://i.imgur.com/6qSw5hg.jpg)](https://i.imgur.com/6qSw5hg.jpg)
 
-This host will give you a human friendly domain (e.i. `www.mycamera.ddns.net`) which will redirect to your modem public IP.
+# Raspbian
+Follow this good tutorial : http://fr.sizious.com/2017/04/30/comment-installer-no-ip-dynamic-update-client-duc-sous-raspbian/
+
 
 > Check your Rasbperry public access with a human friendly domain by typing `www.mycamera.ddns.net` in a browser.
 
