@@ -76,9 +76,9 @@ Go to your modem admin panel control and add a forwarding (NAT) to your Raspberr
 
 ### Create an account on www.noip.com
 
-Go to on https://www.noip.com/
+Go to on https://www.noip.com/.
 
-Create a free account
+Create a free account.
 
 Create a `host`.
 
